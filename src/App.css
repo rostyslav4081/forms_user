@@ -39,3 +39,6 @@ a:hover {
   background-color: rgb(12, 0, 66);
   color: rgb(255, 255, 255);
 }
+input{
+  width: 400px !important;
+}

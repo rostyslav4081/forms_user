@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
-
+// import "bootstrap/dist/css/bootstrap.css";
 //Import the pages
 
 import Form from "./Components/Form/Form"
